@@ -1,1 +1,1 @@
-Texto modificado en archivo_conflictos
+Esto será modificado en un futuro
